@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Julian Chiosso
 
-<!--
-**julichiosso/julichiosso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Web Developer and Advanced Programming Student at UTN, focused on building modern, scalable, and maintainable web applications.
 
-Here are some ideas to get you started:
+My main stack includes JavaScript, TypeScript, and C# with .NET technologies. I have experience developing REST APIs, backend architectures, and dynamic frontend interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies I work with:
+
+• JavaScript / TypeScript  
+• C# / .NET / ASP.NET Core  
+• REST API Development  
+• MVC and Modular Architecture (NestJS)  
+• SQL Databases (PostgreSQL, SQL Server, MySQL)  
+• NoSQL (MongoDB)  
+• Vue.js (Advanced)  
+• HTML, CSS, TailwindCSS, Bootstrap  
+• Authentication with JWT  
+• Testing with Jest  
+• Git & GitHub  
+
+I'm passionate about software development, problem solving, and continuous learning.
+
+Currently focused on improving my backend development skills and building real-world projects.
