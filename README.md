@@ -1,23 +1,24 @@
-Hi, I'm Julian Chiosso
+Hi, I’m Julián Chiosso
 
-I'm a Web Developer and Advanced Programming Student at UTN, focused on building modern, scalable, and maintainable web applications.
+Backend Developer specialized in .NET and REST API development, with full stack experience using Vue.js. I build real-world applications deployed in production, focusing on scalable, maintainable, and well-structured solutions.
 
-My main stack includes JavaScript, TypeScript, and C# with .NET technologies. I have experience developing REST APIs, backend architectures, and dynamic frontend interfaces.
+My work includes designing and developing backend architectures, implementing business logic, and integrating relational databases, following best practices such as Clean Architecture and Domain-Driven Design (DDD).
 
-Technologies I work with:
+I have developed complete systems from scratch, including authentication with JWT, real-time features using SignalR, and deployment in production environments.
 
-• JavaScript / TypeScript  
-• C# / .NET / ASP.NET Core  
-• REST API Development  
-• MVC and Modular Architecture (NestJS)  
-• SQL Databases (PostgreSQL, SQL Server, MySQL)  
-• NoSQL (MongoDB)  
-• Vue.js (Advanced)  
-• HTML, CSS, TailwindCSS, Bootstrap  
-• Authentication with JWT  
-• Testing with Jest  
-• Git & GitHub  
+🛠 Main Stack
 
-I'm passionate about software development, problem solving, and continuous learning.
+• C# · .NET · ASP.NET Core
+• REST API Development · Clean Architecture · DDD
+• Entity Framework Core · SQL Server · PostgreSQL
+• Vue.js · JavaScript · TypeScript
+• Authentication with JWT · SignalR
+• Git · GitHub · Deploy (Vercel, Railway)
 
-Currently focused on improving my backend development skills and building real-world projects.
+📊 Additional Knowledge
+
+• React
+• Python (Data Analysis)
+• Power BI · Data Visualization · Predictive Analysis
+
+I’m focused on backend development, continuously improving my skills by building real-world systems and applying solid architectural practices.
