@@ -1,24 +1,19 @@
-Hi, I’m Julián Chiosso
+# Julián Chiosso
 
-Backend Developer specialized in .NET and REST API development, with full stack experience using Vue.js. I build real-world applications deployed in production, focusing on scalable, maintainable, and well-structured solutions.
+Full Stack Developer, Técnico Superior en Programación (UTN San Francisco, Argentina).
 
-My work includes designing and developing backend architectures, implementing business logic, and integrating relational databases, following best practices such as Clean Architecture and Domain-Driven Design (DDD).
+I build web applications, e-commerce platforms and REST APIs, from backend to frontend. Several projects already in production for real clients.
 
-I have developed complete systems from scratch, including authentication with JWT, real-time features using SignalR, and deployment in production environments.
+**Main stack**
+C# · .NET · ASP.NET Core · Next.js · React · Node.js · TypeScript · PostgreSQL · SQL Server
 
-🛠 Main Stack
+**Also working with**
+Clean Architecture · Entity Framework Core · Vue.js · Prisma · Drizzle ORM · Supabase · AWS S3 · Tailwind CSS · JWT · SignalR
 
-• C# · .NET · ASP.NET Core
-• REST API Development · Clean Architecture · DDD
-• Entity Framework Core · SQL Server · PostgreSQL
-• Vue.js · JavaScript · TypeScript
-• Authentication with JWT · SignalR
-• Git · GitHub · Deploy (Vercel, Railway)
+**Recent projects**
+- E-commerce for a jewelry store — catalog, cart and admin panel (Next.js, Fastify, Prisma, PostgreSQL, AWS S3)
+- Order management system for a pizzeria — mobile-first, real-time error monitoring in production (Next.js, Supabase, Sentry)
+- Booking site for a healthcare professional, with automated WhatsApp appointment requests
+- Returns tracking system — final capstone project (ASP.NET Core, Vue.js, SQL Server)
 
-📊 Additional Knowledge
-
-• React
-• Python (Data Analysis)
-• Power BI · Data Visualization · Predictive Analysis
-
-I’m focused on backend development, continuously improving my skills by building real-world systems and applying solid architectural practices.
+chiossojulian@gmail.com · [LinkedIn](https://www.linkedin.com/in/julianchiosso)
