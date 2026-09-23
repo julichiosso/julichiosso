@@ -2,7 +2,7 @@
 
 Full Stack Developer, Técnico Superior en Programación (UTN San Francisco, Argentina).
 
-I build web applications, e-commerce platforms and REST APIs, from backend to frontend. Several projects already in production for real clients.
+I build web applications, e-commerce platforms and REST APIs, from backend to frontend. Several projects already in production for real clients. I'm also into AI, data science, machine learning and data analysis, and I try to bring that perspective into the products I build.
 
 **Main stack**
 C# · .NET · ASP.NET Core · Next.js · React · Node.js · TypeScript · PostgreSQL · SQL Server
